@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "title":" Hollow Out Round Drop Earrings",
+        "src":"src/components/images/Earring1.png",
+        "price":"$1.50"
+    },
+    {
+        "id":2,
+        "title":" Hollow Beaded Drop Earrings",
+        "src":"src/components/images/Earring2.png",
+        "price":"$1.50"
+    },
+    {
+        "id":3,
+        "title":" Hollow Out Water Drop Earrings",
+        "src":"C:/src/components/images/Earring3.png",
+        "price":"$1.50"
+    },
+    {
+        "id":4,
+        "title":" Geometrin Drop Earrings",
+        "src":"src/components/images/Earring4.png",
+        "price":"$1.80"
+    },
+    {
+        "id":5,
+        "title":" Hollow Flower Drop Earrings",
+        "src":"src/components/images/Earring5.png",
+        "price":"$1.80"
+    },
+    {
+        "id":6,
+        "title":" Round Decor Drop Earrings",
+        "src":"src/components/images/Earring6.png",
+        "price":"$1.50"
+    },
+    {
+        "id":7,
+        "title":" Hollow Out  Drop Earrings",
+        "src":"src/components/images/Earring7.png",
+        "price":"$1.50"
+    },
+    {
+        "id":8,
+        "title":" Hollow Out Water Drop Earrings",
+        "src":"src/components/images/Earring8.png",
+        "price":"$1.50"
+    }, {
+        "id":9,
+        "title":" Hollow Out Water Drop Earrings",
+        "src":"src/components/images/Earring9.png",
+        "price":"$1.50"
+    }, {
+        "id":10,
+        "title":"Leopard Print Water Drop Earrings",
+        "src":"src/components/images/Earring10.png",
+        "price":"$ 1.00"
+    }
+
+]
